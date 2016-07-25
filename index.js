@@ -7,8 +7,10 @@ module.exports = {
     }
   },
   rules: {
+    'arrow-body-style': [2, 'as-needed', { requireReturnForObjectLiteral: true }],
     'comma-dangle': 0,
     'import/no-unresolved': 1, // To minimize false errors with Webpack loaders
+    'max-len': 1,
     'new-cap': 1,
     'no-console': 1,
     'prefer-const': [1, {
