@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-appfolio-base",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Appfolio ESLint base config",
   "main": "index.js",
   "author": "Appfolio, Inc.",
