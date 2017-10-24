@@ -17,6 +17,7 @@ module.exports = {
     'no-param-reassign': 0,
     'no-return-assign': 1,
     'object-curly-newline': 0,
+    'prefer-destructuring': 0,
     'spaced-comment': 0
   }
 }
